@@ -1,5 +1,5 @@
 ### Olá, eu sou o Bryan de Palma
-Estou estudando para ser um Desenvolvedor Front End 👋😄
+Estou estudando para ser um Desenvolvedor Full Stack 👋😄
 
 
 <div align="center">
